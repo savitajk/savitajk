@@ -1,5 +1,5 @@
 # ✨ About Me
-• Pursuing Masters in Computer Science at Arizona State University <\br> • Student at Arizona Stare University
+• Pursuing Masters in Computer Science at Arizona State University <br> • Student at Arizona Stare University
 
 
 ## 🌐 Socials
