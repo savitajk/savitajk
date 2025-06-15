@@ -1,6 +1,5 @@
 # ✨ About Me
-• Pursuing Masters in Computer Science at Arizona State University <br> • Student at Arizona Stare University
-
+• Pursuing Masters in Computer Science at Arizona State University <br> • Passionate about Machine Learning, Data Science and Deep Learning
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/savitajkaur) 
